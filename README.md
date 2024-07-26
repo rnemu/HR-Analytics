@@ -34,7 +34,7 @@ This project involves the creation of an HR Analytics Dashboard using Power BI. 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/rnmeu/HR-Analytics.git
+    git clone https://github.com/rnemu/HR-Analytics
     ```
 2. Open the `.pbix` file in Power BI Desktop.
 
