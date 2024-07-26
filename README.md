@@ -1,6 +1,6 @@
 # 🎯 HR Analytics Dashboard 🎯
 
-I have created HR Analytics Dashboard on POWER BI.
+## Image of Dashboard
 ![image](https://github.com/user-attachments/assets/09c0906a-49be-4f75-ada4-183450c753d3)
 
 This project involves the creation of an HR Analytics Dashboard using Power BI. The dashboard explores an HR dataset to extract insights and analyze the data.
@@ -34,7 +34,7 @@ This project involves the creation of an HR Analytics Dashboard using Power BI. 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/hr-analytics-dashboard.git
+    git clone https://github.com/rnmeu/HR-Analytics.git
     ```
 2. Open the `.pbix` file in Power BI Desktop.
 
@@ -47,35 +47,25 @@ This project involves the creation of an HR Analytics Dashboard using Power BI. 
 
 ## Data
 
-The dataset used in this project includes the following features:
-- Employee ID
-- Date
-- Attendance %
-- WFH %
-- SL %
+The dataset used in this project , located in **Data** directory.
 
 ## Visualizations
 
-- **Attendance % by Day**: Line chart showing attendance percentages across different days of the week.
-- **WFH % by Day**: Line chart showing WFH percentages across different days of the week.
-- **SL % by Day**: Line chart showing SL percentages across different days of the week.
-- **Monthly Attendance Analysis**: Bar chart comparing attendance percentages for each month.
-- **WFH and SL Trends**: Combined chart displaying trends in WFH and SL percentages over time.
+- **Attendance % by Day**: Line chart showing attendance percentages across different dates.
+- **Attendance % by WeekDay**: Line chart showing attendance percentages across different days of the week.
+- **WFH % by Day**: Line chart showing WFH percentages across different dates.
+- **WFH % by WeekDay**: Line chart showing WFH percentages across different day of the week.
+- **SL % by Day**: Line chart showing SL percentages across different dates.
+- **SL % by WeekDay**: Line chart showing SL percentages across different days of the week.
+- **Monthly Attendance,WFH and SL Analysis**:Displaying attendance percentages, WFH and SL percentages for each month.
 - **Employee Key Metrics**: Table showing key performance metrics for each employee.
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, please reach out to [your email].
+For any questions or feedback, please reach out to **rakeshnemu237@gmail.com**.
 
 ---
 
-*Note: Update the placeholders with your actual GitHub username and email address.*
 
